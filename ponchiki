@@ -8,8 +8,7 @@
 </head>
 <style>
     h1 {
-        color: pink
-
+        color: red
     }
 </style>
 <body>
