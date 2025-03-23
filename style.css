@@ -6,7 +6,7 @@ body {
 header {
     width: 100vw;
     height: 100vh;
-    background: url(header_bg.webp);
+    background: url('header_bg.webp');
     background-size: cover;
     display: flex;
 }
@@ -23,6 +23,13 @@ header {
     box-sizing: border-box;
     text-align: right;
 }
+
+.boldonse-regular {
+    font-family: "Boldonse", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
 
 .header_left p {
     font-size: 0.5em;
